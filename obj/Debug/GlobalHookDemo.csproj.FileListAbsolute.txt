@@ -1,0 +1,14 @@
+D:\SSIS\Check\bin\Debug\GlobalHookDemo.XML
+D:\SSIS\Check\bin\Debug\GlobalHookDemo.exe
+D:\SSIS\Check\bin\Debug\GlobalHookDemo.pdb
+D:\SSIS\Check\obj\Debug\GlobalHookDemo.csprojResolveAssemblyReference.cache
+D:\SSIS\Check\obj\Debug\GlobalHookDemo.MainForm.resources
+D:\SSIS\Check\obj\Debug\GlobalHookDemo.csproj.GenerateResource.Cache
+D:\SSIS\Check\obj\Debug\GlobalHookDemo.exe
+D:\SSIS\Check\obj\Debug\GlobalHookDemo.pdb
+D:\SSIS\Check\bin\Debug\GlobalHookDemo.exe.config
+D:\SSIS\Check\obj\Debug\GlobalHookDemo.TrustInfo.xml
+D:\SSIS\Check\bin\Debug\GlobalHookDemo.exe.manifest
+D:\SSIS\Check\bin\Debug\GlobalHookDemo.application
+D:\SSIS\Check\obj\Debug\GlobalHookDemo.exe.manifest
+D:\SSIS\Check\obj\Debug\GlobalHookDemo.application
